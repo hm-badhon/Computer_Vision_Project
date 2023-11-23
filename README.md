@@ -1,4 +1,4 @@
-# Computer vision with hm-badhon (R & D)
+# Computer vision with hm-badhon ( Research & Development )
 
 Computer vision is a rapidly advancing field of technology that focuses on enabling computers to understand and interpret visual information from images or videos. It aims to replicate the remarkable visual perception capabilities of human beings and utilize them in various applications.
 
